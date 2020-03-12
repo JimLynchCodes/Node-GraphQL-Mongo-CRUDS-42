@@ -1,4 +1,4 @@
-# Node GraphQL Mongo QMS 42
+# Node GraphQL Mongo CRUDS 42
 
 
 CRUDS is an acronym that stands for "create, read, upadate, delete, subscribe". This is an example of a contrived, especially simple data to keep things simple.
